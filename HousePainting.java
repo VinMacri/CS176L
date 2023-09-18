@@ -52,7 +52,9 @@ public class HousePainting {
 		
 		//Print to console
 		System.out.println("Your total printable surface area is " + totalSurfaceArea + " total square feet");
-		System.out.format("Your estimate is $%.2f", totalCost);
+		System.out.format("Your estimate is $%,.2f", totalCost);
+		
+		input.close();
 		
 	}
 
