@@ -1,3 +1,7 @@
+//Vincent Macri
+//Cs176
+//House Painting
+
 import java.util.Scanner;
 
 public class HousePainting {
