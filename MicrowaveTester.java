@@ -34,6 +34,7 @@ public class MicrowaveTester {
 			}
 			else if (input.toLowerCase().equals("q")) {
 				System.out.println("Thank You! Goodbye!");
+				run = false;
 			}
 		}
 		in.close();
