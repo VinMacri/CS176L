@@ -1,4 +1,7 @@
 package edu.monmouth.ArrayAssignment1;
+//Vincent Macri
+//CS 176L
+//Array Assignment 1
 
 public class ArrayAssignment1 {
 
